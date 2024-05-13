@@ -3,7 +3,7 @@
 Meu nome é Jéssica Lima
 
 - Estou estudando Alura
-- Estou me desenvolvendo na linguagem JavaScrip
+- Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você pode entrar em contato comigo 📫
